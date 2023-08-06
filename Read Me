@@ -1,0 +1,36 @@
+
+
+
+# BMI Calculator (Imperial) using Tkinter
+
+
+
+This is a simple BMI (Body Mass Index) calculator implemented in Python using the Tkinter library. The application allows users to calculate their BMI based on their weight (in pounds) and height (in inches) and displays the calculated BMI value along with the corresponding status (underweight, normal weight, overweight, or obese).
+
+## How to Use
+
+1. Clone the repository or download the source code files.
+2. Make sure you have Python and Tkinter installed on your system.
+3. Run the `bmi_calculator.py` script using Python:
+   ```
+   python bmi_calculator.py
+   ```
+4. Enter your height (in inches) and weight (in pounds) in the provided entry fields.
+5. Click the "Calculate BMI" button to compute your BMI.
+6. The result will be displayed on the screen, showing your BMI value and status.
+
+
+
+## Requirements
+
+- Python 3.x
+- Tkinter library (should be included with standard Python installation)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+[Your Name](https://github.com/Donmiller9294)
+```
